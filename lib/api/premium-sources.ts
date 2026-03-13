@@ -5,6 +5,8 @@ export const PREMIUM_SOURCES: VideoSource[] = [
         "id": "leba",
         "name": "乐播资源",
         "baseUrl": "https://lbapi9.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "premium",
         "enabled": true,
         "priority": 1
@@ -13,6 +15,8 @@ export const PREMIUM_SOURCES: VideoSource[] = [
         "id": "ck",
         "name": "CK",
         "baseUrl": "https://www.ckzy1.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "premium",
         "enabled": true,
         "priority": 2
@@ -21,6 +25,8 @@ export const PREMIUM_SOURCES: VideoSource[] = [
         "id": "jkun",
         "name": "jkun",
         "baseUrl": "https://jkunzyapi.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "premium",
         "enabled": true,
         "priority": 3
@@ -29,6 +35,8 @@ export const PREMIUM_SOURCES: VideoSource[] = [
         "id": "155",
         "name": "155",
         "baseUrl": "https://155api.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "premium",
         "enabled": true,
         "priority": 4
@@ -37,6 +45,8 @@ export const PREMIUM_SOURCES: VideoSource[] = [
         "id": "lsb",
         "name": "lsb",
         "baseUrl": "https://apilsbzy1.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "premium",
         "enabled": true,
         "priority": 5
@@ -45,6 +55,8 @@ export const PREMIUM_SOURCES: VideoSource[] = [
         "id": "hsck",
         "name": "黄色仓库",
         "baseUrl": "https://hsckzy.vip/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "premium",
         "enabled": true,
         "priority": 6
@@ -53,6 +65,8 @@ export const PREMIUM_SOURCES: VideoSource[] = [
         "id": "yutu",
         "name": "玉兔",
         "baseUrl": "https://yutuzy10.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "premium",
         "enabled": true,
         "priority": 7
@@ -61,6 +75,8 @@ export const PREMIUM_SOURCES: VideoSource[] = [
         "id": "msnii",
         "name": "美少女资源站",
         "baseUrl": "https://www.msnii.com/api/json.php",
+        "searchPath": "",
+        "detailPath": "",
         "group": "premium",
         "enabled": true,
         "priority": 8
@@ -69,6 +85,8 @@ export const PREMIUM_SOURCES: VideoSource[] = [
         "id": "xrbsp",
         "name": "淫水机资源站",
         "baseUrl": "https://www.xrbsp.com/api/json.php",
+        "searchPath": "",
+        "detailPath": "",
         "group": "premium",
         "enabled": true,
         "priority": 9
@@ -77,6 +95,8 @@ export const PREMIUM_SOURCES: VideoSource[] = [
         "id": "gdlsp",
         "name": "香奶儿资源站",
         "baseUrl": "https://www.gdlsp.com/api/json.php",
+        "searchPath": "",
+        "detailPath": "",
         "group": "premium",
         "enabled": true,
         "priority": 10
@@ -85,6 +105,8 @@ export const PREMIUM_SOURCES: VideoSource[] = [
         "id": "kxgav",
         "name": "白嫖资源站",
         "baseUrl": "https://www.kxgav.com/api/json.php",
+        "searchPath": "",
+        "detailPath": "",
         "group": "premium",
         "enabled": true,
         "priority": 11
@@ -93,6 +115,8 @@ export const PREMIUM_SOURCES: VideoSource[] = [
         "id": "pgxdy",
         "name": "黄AV资源站",
         "baseUrl": "https://www.pgxdy.com/api/json.php",
+        "searchPath": "",
+        "detailPath": "",
         "group": "premium",
         "enabled": true,
         "priority": 12
@@ -101,6 +125,8 @@ export const PREMIUM_SOURCES: VideoSource[] = [
         "id": "baiwan",
         "name": "百万资源",
         "baseUrl": "https://api.bwzyz.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "premium",
         "enabled": true,
         "priority": 13
@@ -109,6 +135,8 @@ export const PREMIUM_SOURCES: VideoSource[] = [
         "id": "madou",
         "name": "91麻豆",
         "baseUrl": "https://91md.me/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "premium",
         "enabled": true,
         "priority": 14
@@ -117,6 +145,8 @@ export const PREMIUM_SOURCES: VideoSource[] = [
         "id": "aosika",
         "name": "奥斯卡资源",
         "baseUrl": "https://aosikazy.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "premium",
         "enabled": true,
         "priority": 15
@@ -125,6 +155,8 @@ export const PREMIUM_SOURCES: VideoSource[] = [
         "id": "naixiang",
         "name": "奶香香",
         "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "premium",
         "enabled": true,
         "priority": 16
@@ -133,6 +165,8 @@ export const PREMIUM_SOURCES: VideoSource[] = [
         "id": "senlin",
         "name": "森林资源",
         "baseUrl": "https://slapibf.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "premium",
         "enabled": true,
         "priority": 17
@@ -141,6 +175,8 @@ export const PREMIUM_SOURCES: VideoSource[] = [
         "id": "fanhao",
         "name": "番号资源",
         "baseUrl": "http://fhapi9.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "premium",
         "enabled": true,
         "priority": 18
@@ -149,6 +185,8 @@ export const PREMIUM_SOURCES: VideoSource[] = [
         "id": "jingpin",
         "name": "精品资源",
         "baseUrl": "https://www.jingpinx.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "premium",
         "enabled": true,
         "priority": 19
@@ -157,6 +195,8 @@ export const PREMIUM_SOURCES: VideoSource[] = [
         "id": "shayu",
         "name": "鲨鱼资源",
         "baseUrl": "https://shayuapi.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "premium",
         "enabled": true,
         "priority": 20
@@ -165,6 +205,8 @@ export const PREMIUM_SOURCES: VideoSource[] = [
         "id": "xiaoji",
         "name": "小鸡资源",
         "baseUrl": "https://api.xiaojizy.live/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "premium",
         "enabled": true,
         "priority": 21
@@ -173,6 +215,8 @@ export const PREMIUM_SOURCES: VideoSource[] = [
         "id": "xibao",
         "name": "细胞采集",
         "baseUrl": "https://www.xxibaozyw.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "premium",
         "enabled": true,
         "priority": 22

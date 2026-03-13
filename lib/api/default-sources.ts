@@ -6,6 +6,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "feifan",
         "name": "非凡资源",
         "baseUrl": "http://ffzy5.tv/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 1
@@ -14,6 +16,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "wolong",
         "name": "卧龙资源",
         "baseUrl": "https://wolongzyw.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 2
@@ -22,6 +26,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "zuida",
         "name": "最大资源",
         "baseUrl": "https://api.zuidapi.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 3
@@ -30,6 +36,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "baiduyun",
         "name": "百度云资源",
         "baseUrl": "https://api.apibdzy.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 4
@@ -38,6 +46,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "baofeng",
         "name": "暴风资源",
         "baseUrl": "https://bfzyapi.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 5
@@ -46,6 +56,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "jisu",
         "name": "极速资源",
         "baseUrl": "https://jszyapi.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 6
@@ -54,6 +66,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "tianya",
         "name": "天涯资源",
         "baseUrl": "https://tyyszy.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 7
@@ -62,6 +76,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "wujin",
         "name": "无尽资源",
         "baseUrl": "https://api.wujinapi.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 8
@@ -70,6 +86,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "modu",
         "name": "魔都资源",
         "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 9
@@ -78,6 +96,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "sanliuling",
         "name": "360资源",
         "baseUrl": "https://360zy.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 10
@@ -86,6 +106,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "dytt",
         "name": "电影天堂",
         "baseUrl": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 11
@@ -94,6 +116,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "ruyi",
         "name": "如意资源",
         "baseUrl": "https://cj.rycjapi.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 12
@@ -102,6 +126,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "wangwang",
         "name": "旺旺资源",
         "baseUrl": "https://wwzy.tv/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 13
@@ -110,6 +136,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "hongniu",
         "name": "红牛资源",
         "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 14
@@ -118,6 +146,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "guangsu",
         "name": "光速资源",
         "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 15
@@ -126,6 +156,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "ikun",
         "name": "iKun资源",
         "baseUrl": "https://ikunzyapi.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 16
@@ -134,6 +166,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "youku",
         "name": "优酷资源",
         "baseUrl": "https://api.ukuapi.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 17
@@ -142,6 +176,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "huya",
         "name": "虎牙资源",
         "baseUrl": "https://www.huyaapi.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 18
@@ -150,6 +186,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "xinlang",
         "name": "新浪资源",
         "baseUrl": "http://api.xinlangapi.com/xinlangapi.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 19
@@ -158,6 +196,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "lezi",
         "name": "乐子资源",
         "baseUrl": "https://cj.lziapi.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 20
@@ -166,6 +206,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "haihua",
         "name": "海豚资源",
         "baseUrl": "https://hhzyapi.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 21
@@ -174,6 +216,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "jiangyu",
         "name": "鲸鱼资源",
         "baseUrl": "https://jyzyapi.com/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 22
@@ -182,6 +226,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "aidan",
         "name": "爱蛋资源",
         "baseUrl": "https://lovedan.net/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 23
@@ -190,6 +236,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "moduzy",
         "name": "魔都影视",
         "baseUrl": "https://www.moduzy.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 24
@@ -198,6 +246,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "feifanapi",
         "name": "非凡API",
         "baseUrl": "https://api.ffzyapi.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 25
@@ -206,6 +256,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "feifancj",
         "name": "非凡采集",
         "baseUrl": "http://cj.ffzyapi.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 26
@@ -214,6 +266,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "feifancj2",
         "name": "非凡采集HTTPS",
         "baseUrl": "https://cj.ffzyapi.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 27
@@ -222,6 +276,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "feifan1",
         "name": "非凡线路1",
         "baseUrl": "http://ffzy1.tv/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 28
@@ -230,6 +286,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "wolong2",
         "name": "卧龙采集",
         "baseUrl": "https://collect.wolongzyw.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 29
@@ -238,6 +296,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "baofeng2",
         "name": "暴风APP",
         "baseUrl": "https://app.bfzyapi.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 30
@@ -246,6 +306,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "wujin2",
         "name": "无尽ME",
         "baseUrl": "https://api.wujinapi.me/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 31
@@ -254,6 +316,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "tianyazy",
         "name": "天涯海角",
         "baseUrl": "https://tyyszyapi.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 32
@@ -262,6 +326,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "guangsu2",
         "name": "光速HTTP",
         "baseUrl": "http://api.guangsuapi.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 33
@@ -270,6 +336,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "xinlang2",
         "name": "新浪HTTPS",
         "baseUrl": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 34
@@ -278,6 +346,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "yilingba2",
         "name": "1080JSON",
         "baseUrl": "https://api.1080zyku.com/inc/apijson.php",
+        "searchPath": "",
+        "detailPath": "",
         "group": "normal",
         "enabled": true,
         "priority": 35
@@ -286,6 +356,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "lezi2",
         "name": "乐子HTTP",
         "baseUrl": "http://cj.lziapi.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 36
@@ -294,6 +366,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "uku88",
         "name": "U酷资源88",
         "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 37
@@ -302,6 +376,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "wujincc",
         "name": "无尽CC",
         "baseUrl": "https://api.wujinapi.cc/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 38
@@ -310,6 +386,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "yaya",
         "name": "丫丫点播",
         "baseUrl": "https://cj.yayazy.net/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 39
@@ -318,6 +396,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "wolongcc",
         "name": "卧龙CC",
         "baseUrl": "https://collect.wolongzy.cc/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 40
@@ -326,6 +406,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "wujinnet",
         "name": "无尽NET",
         "baseUrl": "https://api.wujinapi.net/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 41
@@ -334,6 +416,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "wangwangapi",
         "name": "旺旺API",
         "baseUrl": "https://api.wwzy.tv/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 42
@@ -342,6 +426,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "zuidame",
         "name": "最大点播",
         "baseUrl": "http://zuidazy.me/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 43
@@ -350,6 +436,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "yinghua",
         "name": "樱花资源",
         "baseUrl": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 44
@@ -358,6 +446,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "bubugao",
         "name": "步步高资源",
         "baseUrl": "https://api.yparse.com/api/json",
+        "searchPath": "",
+        "detailPath": "",
         "group": "normal",
         "enabled": true,
         "priority": 45
@@ -366,6 +456,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "niuniu",
         "name": "牛牛点播",
         "baseUrl": "https://api.niuniuzy.me/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 46
@@ -374,6 +466,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "suoni",
         "name": "索尼资源",
         "baseUrl": "https://suoniapi.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 47
@@ -382,6 +476,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "maotai",
         "name": "茅台资源",
         "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 48
@@ -390,6 +486,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "dbzy",
         "name": "豆瓣资源",
         "baseUrl": "https://dbzy.tv/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 49
@@ -398,6 +496,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "subo",
         "name": "速博资源",
         "baseUrl": "https://subocaiji.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 50
@@ -406,6 +506,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "jinying",
         "name": "金鹰点播",
         "baseUrl": "https://jinyingzy.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 51
@@ -414,6 +516,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "shandian",
         "name": "閃電资源",
         "baseUrl": "https://sdzyapi.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 52
@@ -422,6 +526,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "piaoling",
         "name": "飘零资源",
         "baseUrl": "https://p2100.net/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 53
@@ -430,6 +536,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "modudongman",
         "name": "魔都动漫",
         "baseUrl": "https://caiji.moduapi.cc/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 54
@@ -438,6 +546,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "hongniu3",
         "name": "红牛资源3",
         "baseUrl": "https://www.hongniuzy3.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 55
@@ -446,6 +556,8 @@ export const DEFAULT_SOURCES: VideoSource[] = [
         "id": "suonisd",
         "name": "索尼-闪电",
         "baseUrl": "https://xsd.sdzyapi.com/api.php/provide/vod",
+        "searchPath": "/provide/vod",
+        "detailPath": "/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 56
