@@ -245,8 +245,8 @@ export function DesktopVideoPlayer({
             />
           )}
 
-          {/* Video Resolution Badge - shows actual resolution from video stream */}
-          {videoResolution && (
+          {/* Video Resolution Badge - shows actual resolution from video stream, hidden in fullscreen */}
+          {videoResolution && !data.isFullscreen && (
             <div className="absolute top-3 left-3 z-20 pointer-events-none">
               <span className={`inline-flex items-center gap-1 px-1.5 py-0.5 rounded text-[10px] font-bold text-white ${videoResolution.color} opacity-80`}>
                 {videoResolution.label}
